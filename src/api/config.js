@@ -8,7 +8,7 @@ module.exports = {
   },
   thirdparty: {
     openweather: {
-      key: process.env.OPENWEATHERAPI_KEY || 'bf88e64dfd3ed5855006194034565ad1'
+      key: process.env.OPENWEATHERAPI_KEY
     }
   },
   currentWeather: {
